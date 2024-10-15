@@ -1,0 +1,105 @@
+<style>
+  body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+  }
+
+  .center {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .languageButton {
+      background-color: #99b5dc;
+      padding: 5px 10px;
+      border-radius: 10px;
+      color: white;
+      font-weight: bold;
+      margin: 5px;
+  }
+
+  .tagContainer {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 10px 0;
+  }
+
+  .websiteContainer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 5px;
+  }
+
+  .portfolio {
+      font-size: medium;
+      text-align: right;
+      margin: 0;
+      padding: 0;
+  }
+
+  .webLink {
+      color: #007bff;
+      text-decoration: none;
+  }
+
+  .webLink:hover {
+      text-decoration: underline;
+  }
+
+  .iframeContainer {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+  }
+
+  iframe {
+      border: 3px solid black;
+      border-radius: 10px;
+      width: 45%;
+      height: 300px; /* Set a fixed height for consistency */
+  }
+
+  img {
+      width: 200px;
+  }
+  #checkOut {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+</style>
+</head>
+<body>
+<div class="center">
+    <img src="mongmong1.gif" alt="Jinn's Avatar" />
+    <h1>Hi, I'm Jinn ᯓ ⭑.ᐟ</h1>
+</div>
+
+<h2>Languages and Tools</h2>
+<div class="tagContainer">
+    <div class="languageButton">C++</div>
+    <div class="languageButton">HTML</div>
+    <div class="languageButton">CSS</div>
+    <div class="languageButton">JavaScript</div>
+    <div class="languageButton">PHP</div>
+    <div class="languageButton">mySQL</div>
+    <div class="languageButton">Node.js</div>
+</div>
+
+<div class="websiteContainer">
+    <h2 id = 'checkOut' >Check Out My Website</h2>
+    <h2>
+        <a class="webLink" href="http://jinnha.com" target="_blank">jinnha.com</a>
+    </h2>
+</div>
+
+<h2>My GitHub Stats ─ ★ ˙ # !!</h2>
+<div class="iframeContainer">
+    <iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpt155722&theme=buefy&show_icons=true&hide_border=true&layout=compact" frameborder="0"></iframe>
+    <iframe src="https://github-readme-streak-stats.herokuapp.com/?user=hpt155722&theme=buefy&hide_border=true" frameborder="0"></iframe>
+</div>
+</body>
