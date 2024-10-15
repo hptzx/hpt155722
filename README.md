@@ -6,7 +6,7 @@
   <div>
     <h2> # - Languages and Tools ─ !! </h2>
     <div align="center">
-      <img src="mongmong5.gif" style='width: 200px' align="right">
+      <img src="mongmong5.gif" style='width: 150px' align="right">
     </div>
   </div>
   <div>
@@ -24,7 +24,7 @@
     <br>
     <h2># - My Portfolio ─ !!</h2>
     <div align="center">
-      <img src="mongmong9.gif" alt="Description" width="200" />
+      <img src="mongmong9.gif" alt="Description" width="150px" />
     </div>
     <div align="center">
       <a class="webLink" style='font-size: 24px; font-weight: bold;' href="http://jinnha.com" target="_blank">jinnha.com</a>
