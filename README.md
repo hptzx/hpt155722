@@ -1,7 +1,7 @@
 <body>
   <div align="center">
-    <img src="mongmong1.gif" width='150px' alt="Jinn" />
-    <h1 style='margin: 0;'>Hi, I'm Jinn ᯓ ⭑.ᐟ</h1>
+    <img src="mongmong1.gif" width='100px' alt="Jinn" />
+    <h2 style='margin: 0;'>Hi, I'm Jinn ᯓ ⭑.ᐟ</h2>
   </div>
   <div>
     <h2> # - Languages and Tools ─ !! </h2>
@@ -11,7 +11,7 @@
   </div>
   <div>
     <br>
-    <div align = "center">
+    <div align = "center" width: 60%;>
       <img src='languages/cpp.png' style='height: 26px;   margin-right: 10px; margin-bottom: 10px;'>
       <img src='languages/html.png' style='height: 26px;   margin-right: 10px; margin-bottom: 10px;'>
       <img src='languages/css.png' style='height: 26px;   margin-right: 10px; margin-bottom: 10px;'>
@@ -24,7 +24,7 @@
     <br>
     <h2># - My Portfolio ─ !!</h2>
     <div align="center">
-      <img src="mongmong9.gif" alt="Description" width="150px" />
+      <img src="mongmong9.gif" alt="Description" width="120px" />
     </div>
     <div align="center">
       <h3> <a class="webLink" style='font-size: 24px; font-weight: bold;' href="http://jinnha.com" target="_blank">jinnha.com</a> </h3>
