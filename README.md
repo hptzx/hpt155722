@@ -1,7 +1,7 @@
 <body>
   <div align="center">
-    <img src="mongmong1.gif" width='200px' alt="Jinn" />
-    <h1>Hi, I'm Jinn ᯓ ⭑.ᐟ</h1>
+    <img src="mongmong1.gif" width='150px' alt="Jinn" />
+    <h1 style = 'margin: 0;'>Hi, I'm Jinn ᯓ ⭑.ᐟ</h1>
   </div>
 
   <div>
@@ -13,24 +13,26 @@
   <div>
     <br>
     <p align="center">
-      <p align="left">
-        <span style="background-color: #99b5dc; padding: 5px 10px; border-radius: 10px; color: white; font-weight: bold; margin: 5px;">C++</span>
-        <span style="background-color: #99b5dc; padding: 5px 10px; border-radius: 10px; color: white; font-weight: bold; margin: 5px;">HTML</span>
-        <span style="background-color: #99b5dc; padding: 5px 10px; border-radius: 10px; color: white; font-weight: bold; margin: 5px;">CSS</span>
-        <span style="background-color: #99b5dc; padding: 5px 10px; border-radius: 10px; color: white; font-weight: bold; margin: 5px;">JavaScript</span>
-        <span style="background-color: #99b5dc; padding: 5px 10px; border-radius: 10px; color: white; font-weight: bold; margin: 5px;">PHP</span>
-        <span style="background-color: #99b5dc; padding: 5px 10px; border-radius: 10px; color: white; font-weight: bold; margin: 5px;">mySQL</span>
-        <span style="background-color: #99b5dc; padding: 5px 10px; border-radius: 10px; color: white; font-weight: bold; margin: 5px;">Node.js</span>
-      </p>
+    <ul style="font-size: 18px;">
+    <li>C++</li>
+    <li>PHP</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>MySQL</li>
+    <li>Node.js</li>
+    <li>Electron.js</li>
+</ul>
     </p>
     <br>
+
   <h2># - My Portfolio ─ !!</h2>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
   <img src="mongmong9.gif" alt="Description" width="200" />
-  <span style="padding-left: 10px;">
+</div>
+<div align="center">
     <a class="webLink" style = 'font-size: 24px; font-weight: bold;' href="http://jinnha.com" target="_blank">jinnha.com</a>
-  </span>
 </div>
 
   <h2># - My Github Stats ─ !!</h2>
